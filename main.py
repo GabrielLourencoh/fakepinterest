@@ -3,4 +3,4 @@ from fakepinterest import app #to importando o app do meu fakepinterest(esta peg
 
 
 if __name__ == "__main__":
-    app.run(debug=True)                 #de bug=True e para caso a gente mexer no site ja    modificar la tbm, automaticamente
+    app.run(debug=False)                 #de bug=True e para caso a gente mexer no site ja    modificar la tbm, automaticamente
